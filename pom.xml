@@ -35,7 +35,7 @@
         <javassist.version>3.24.0-GA</javassist.version>
         <jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
 
-        <org-service-pojo-version>0.0.1-SNAPSHOT</org-service-pojo-version>
+        <org-service-pojo-version>0.0.24-SNAPSHOT</org-service-pojo-version>
     </properties>
     <repositories>
         <repository>
@@ -93,7 +93,7 @@
         </dependency>
         <dependency>
             <groupId>com.cv</groupId>
-            <artifactId>s02-02-org-service-pojo</artifactId>
+            <artifactId>s20-02-org-service-pojo</artifactId>
             <version>${org-service-pojo-version}</version>
         </dependency>
     </dependencies>

@@ -1,9 +1,10 @@
 id,name,description,path,icon,icon_type,icon_theme,menu_type,root_menu_id,display_position,status,created_by,modified_by,created_at,modified_at
-AUTO-MENU-001,governance,governance,governance,compass,nzIcon,outline,1,NA,1,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-002,Organization,Organization,Organization,bank,nzIcon,outline,2,AUTO-MENU-001,1,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-003,permission,permission,permission,aim,nzIcon,outline,2,AUTO-MENU-001,2,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-004,menu,menu,menu,menu,nzIcon,outline,2,AUTO-MENU-001,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-005,role,role,role,flag,nzIcon,outline,2,AUTO-MENU-001,4,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-006,user,user,user,user,nzIcon,outline,2,AUTO-MENU-001,5,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-007,password,password,password,key,nzIcon,outline,6,AUTO-MENU-001,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-001,dashboard,dashboard,dashboard,dashboard,nzIcon,outline,1,NA,1,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-002,governance,governance,,compass,nzIcon,outline,1,NA,2,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-003,organization,organization,governance/organization,bank,nzIcon,outline,1,AUTO-MENU-002,1,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-004,permission,permission,governance/permission,aim,nzIcon,outline,2,AUTO-MENU-002,2,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-005,menu,menu,governance/menu,menu,nzIcon,outline,2,AUTO-MENU-002,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-006,role,role,governance/role,flag,nzIcon,outline,2,AUTO-MENU-002,4,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-007,user,user,governance/user,user,nzIcon,outline,2,AUTO-MENU-002,5,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-008,password,password,governance/password,key,nzIcon,outline,6,AUTO-MENU-002,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 
