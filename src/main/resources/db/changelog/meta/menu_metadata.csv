@@ -6,5 +6,5 @@ AUTO-MENU-004,permission,permission,governance/permission,aim,nzIcon,outline,2,A
 AUTO-MENU-005,menu,menu,governance/menu,menu,nzIcon,outline,2,AUTO-MENU-002,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 AUTO-MENU-006,role,role,governance/role,flag,nzIcon,outline,2,AUTO-MENU-002,4,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 AUTO-MENU-007,user,user,governance/user,user,nzIcon,outline,2,AUTO-MENU-002,5,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
-AUTO-MENU-008,password,password,governance/password,key,nzIcon,outline,6,AUTO-MENU-002,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-008,password,password,governance/password,key,nzIcon,outline,2,AUTO-MENU-002,6,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 

@@ -35,7 +35,7 @@
         <javassist.version>3.24.0-GA</javassist.version>
         <jakarta.validation-api.version>3.0.2</jakarta.validation-api.version>
 
-        <org-service-pojo-version>0.0.24-SNAPSHOT</org-service-pojo-version>
+        <org-service-pojo-version>0.0.43-SNAPSHOT</org-service-pojo-version>
     </properties>
     <repositories>
         <repository>
@@ -164,7 +164,7 @@
                      Postgres Test DB - Stop-->
                     <!-- MySQL Test DB - start -->
                     <driver>com.mysql.cj.jdbc.Driver</driver>
-                    <url>jdbc:mysql://localhost:3306/uamdb?createDatabaseIfNotExist=true</url>
+                    <url>jdbc:mysql://localhost:3306/orgdb?createDatabaseIfNotExist=true</url>
                     <username>root</username>
                     <password>Root1234</password>
                     <!-- MySQL Test DB - Stop-->
