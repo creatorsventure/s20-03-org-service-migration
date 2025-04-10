@@ -7,4 +7,6 @@ AUTO-MENU-005,menu,menu,governance/menu,menu,nzIcon,outline,2,AUTO-MENU-002,3,tr
 AUTO-MENU-006,role,role,governance/role,flag,nzIcon,outline,2,AUTO-MENU-002,4,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 AUTO-MENU-007,user,user,governance/user,user,nzIcon,outline,2,AUTO-MENU-002,5,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 AUTO-MENU-008,password,password,governance/password,key,nzIcon,outline,2,AUTO-MENU-002,6,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-009,configuration,configuration,,setting,nzIcon,outline,1,NA,3,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
+AUTO-MENU-010,unit,unit,configuration/unit,bank,nzIcon,outline,2,AUTO-MENU-009,1,true,AUTO_SCRIPT,AUTO_SCRIPT,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP
 
