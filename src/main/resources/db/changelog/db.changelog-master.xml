@@ -27,5 +27,5 @@
                 <include
                         file="src/main/resources/db/changelog/diff/18032025095220_changelog_diff.xml"
                         relativeToChangelogFile="false"/>
-         -->
+     -->
 </databaseChangeLog>

@@ -18,29 +18,4 @@
                   commentLineStartsWith="//">
         </loadData>
     </changeSet>
-    <!--
-        <changeSet id="1803202504" author="ramakrishna (generated)">
-            <loadData tableName="role"
-                      file="src/main/resources/db/changelog/meta/role_metadata.csv"
-                      separator=","
-                      commentLineStartsWith="//">
-            </loadData>
-        </changeSet>
-
-        <changeSet id="1803202505" author="ramakrishna (generated)">
-            <loadData tableName="role_menu_mapping"
-                      file="src/main/resources/db/changelog/meta/role_menu_mapping_metadata.csv"
-                      separator=","
-                      commentLineStartsWith="//">
-            </loadData>
-        </changeSet>
-
-        <changeSet id="1803202506" author="ramakrishna (generated)">
-            <loadData tableName="role_permission_mapping"
-                      file="src/main/resources/db/changelog/meta/role_permission_mapping_metadata.csv"
-                      separator=","
-                      commentLineStartsWith="//">
-            </loadData>
-        </changeSet>
-        -->
 </databaseChangeLog>
